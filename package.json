@@ -1,0 +1,7 @@
+{
+    "name": "mini_compiler_demo",
+    "version": "1.0.0",
+    "author": "Rolwin Reevan <rolwinmonteiro@gmail.com> (rolwinreevan.com)",
+    "license": "CC-BY-4.0",
+    "main": "./compiler.js"
+  }
